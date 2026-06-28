@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sync Photos Ordered"
+  short_description: "Export Photos library in exact order"
+  default_prompt: "Use $sync-photos-ordered to export my Photos library to an external drive in Photos order."
